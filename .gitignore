@@ -1,0 +1,11 @@
+.idea
+output
+Count_GPFA/maze_results.final
+Count_GPFA/synthetic_results
+.ipynb_checkpoints/
+src
+ccgpfa/nodes/__pycache__/
+ccgpfa/__pycache__/
+ccgpfa/inference/__pycache__/
+ccgpfa/inference/coupled/__pycache__/
+__pycache__
