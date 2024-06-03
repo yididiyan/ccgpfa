@@ -1,5 +1,5 @@
 ## ccGPFA 
-The repository contains an implementation for "Conditionally-Conjugate Gaussian Process Factor Analysis for Spike Count Data via Data Augmentation" (Under review). 
+The repository contains an implementation for "Conditionally-Conjugate Gaussian Process Factor Analysis for Spike Count Data via Data Augmentation" (To appear at ICML 2024). 
 
 
 
