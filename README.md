@@ -104,6 +104,7 @@ Final analysis can be found at `(experiments/multiple_trials/MC Maze - Large - A
 ```
 python run_gpfa.py --dataset ../datasets/MC_Maze_L/<pkl-file> --output_dir ../../output/MC_Maze_L --test-size 0 --bin-size 15 --threshold 1
 ```
+Here threshold=1 option removes neurons with <= 1 spikes across all trials, as this causes issues in the original implementation. 
 
 
 
