@@ -100,6 +100,10 @@ python PAL_public_MC_Maze.py --dataset ../datasets/MC_Maze_L/<pkl-file>
 
 Final analysis can be found at `(experiments/multiple_trials/MC Maze - Large - Analysis .ipynb)`
 
+### Running GPFA 
+```
+python run_gpfa.py --dataset ../datasets/MC_Maze_L/<pkl-file> --output_dir ../../output/MC_Maze_L --test-size 0 --bin-size 15 --threshold 1
+```
 
 
 
